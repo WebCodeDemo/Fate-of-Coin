@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
 body {
     font-family: 'Baskerville', serif;
     display: flex;
@@ -23,8 +25,8 @@ body {
 h1 {
     color: #ffd700;
     margin-bottom: 20px;
-    font-family: 'Majestic', 'Baskerville', serif;
-    font-size: 2.5em;
+    font-family: 'Nabla', cursive;
+    font-size: 3.5em;
     text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
 }
 
